@@ -28,7 +28,7 @@ let posts = [
     content:
       "Sustainability is more than just a buzzword; it's a way of life. As the effects of climate change become more pronounced, there's a growing realization about the need to live sustainably. From reducing waste and conserving energy to supporting eco-friendly products, there are numerous ways we can make our daily lives more environmentally friendly. This post will explore practical tips and habits that can make a significant difference.",
     author: "Samuel Green",
-    date: "2024-10-10T09:15:00Z",
+    date: "2024-10-08T09:15:00Z",
   },
 ];
 
