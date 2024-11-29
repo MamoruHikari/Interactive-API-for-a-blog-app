@@ -1,6 +1,6 @@
 # Interactive API for a Blog App
 
-This project demonstrates how to build an interactive API for a blog application using Node.js and Express. The goal is to learn how to create APIs that interact with a frontend and serve dynamic content for a blog app.
+This project features a custom-built interactive API for a blog app using Node.js and Express to serve dynamic content.
 
 ---
 
@@ -41,7 +41,7 @@ This project demonstrates how to build an interactive API for a blog application
   ```
 
 ### **Accessing the App**
-1. Open your browser and navigate to:
+Open your browser and navigate to:
    - **Application Server**: [http://localhost:3000](http://localhost:3000)
    - **API Server**: [http://localhost:4000](http://localhost:4000)
 
