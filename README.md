@@ -21,8 +21,8 @@ This project features a custom-built interactive API for a blog app using Node.j
 ### **Installation**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Interactive-API-for-a-blog-app.git
-   cd Interactive-API-for-a-blog-app
+   git clone https://github.com/your-username/interactive-API-for-a-blog-app.git
+   cd interactive-API-for-a-blog-app
    ```
 2. Install dependencies:
    ```bash
